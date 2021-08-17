@@ -1,0 +1,18 @@
+{
+  "name": "digiturk-exercises",
+  "version": "1.0.0",
+  "description": "exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:array": "jest -t 'array method tests'",
+    "test:hard": "jest -t 'hard method tests'",
+    "test:map": "jest -t 'map method tests'",
+    "test:object": "jest -t 'object method tests'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
